@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Role Management_w-8 h-8 rounded-full border-2 border-54A444</name>
+   <tag></tag>
+   <elementGuidId>428f9b8b-08ed-4554-a990-e1039379c99f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='avatarButton']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;User Avatar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b5abb00c-36d8-49a5-91e1-1895a776c8ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://is3.cloudhost.id/sumu/images/profile/q3a6gZFVIGAWois56SyMTNYjmt2sQTBLczww0EGD.jpg</value>
+      <webElementGuid>6d5c004c-29a4-42e1-bd70-0bdf9e2365f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>User Avatar</value>
+      <webElementGuid>95f0ba2c-79c3-4e25-af35-de35c9c03e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-8 h-8 rounded-full border-2 border-[#54A444]</value>
+      <webElementGuid>f5050b7a-612e-44ed-9607-0a9340965e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;avatarButton&quot;)/img[@class=&quot;w-8 h-8 rounded-full border-2 border-[#54A444]&quot;]</value>
+      <webElementGuid>b6252145-a49b-4a1b-8417-df61a9495414</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='avatarButton']/img</value>
+      <webElementGuid>bc624e0c-1bb5-4d93-8257-71e4da8a157a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='User Avatar']</value>
+      <webElementGuid>b9dc268a-5527-4643-bf11-71fd5f074f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/img</value>
+      <webElementGuid>13fe85df-50e0-4908-af7b-f7deb75b861b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://is3.cloudhost.id/sumu/images/profile/q3a6gZFVIGAWois56SyMTNYjmt2sQTBLczww0EGD.jpg' and @alt = 'User Avatar']</value>
+      <webElementGuid>00131273-626e-4a65-8893-fc1201893d02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

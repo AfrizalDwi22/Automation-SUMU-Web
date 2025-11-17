@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tidak bisa mengubah password akun</description>
+   <name>LG-003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7adaf9b-e741-4d8c-a4cd-2166f4bb1f7d</testCaseGuid>
+</TestCaseEntity>

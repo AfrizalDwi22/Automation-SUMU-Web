@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Aktif_w-6 h-6 cursor-pointer</name>
+   <tag></tag>
+   <elementGuidId>fb5fb098-2dd5-417e-b732-2cc9555d473a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Edit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>974ef93d-47a8-4e43-9d28-edbb1853f11d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/assets/postingan/img/edit-2.png</value>
+      <webElementGuid>44eac6e7-4a09-474e-accb-7643a98d0702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>e9db14bd-5d5d-40d9-aecc-55f13e319f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-6 h-6 cursor-pointer</value>
+      <webElementGuid>5327fc3e-ed2e-4096-acd6-5853621a07fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;w-full pb-4 mt-12 bg-white shadow-lg rounded-3xl&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;min-w-full mt-4 border-collapse&quot;]/tbody[@class=&quot;text-gray-700 bg-white&quot;]/tr[@class=&quot;border border-gray-200&quot;]/td[@class=&quot;flex items-center justify-center h-full px-4 py-3 pt-8 my-auto space-x-3&quot;]/a[@class=&quot;flex-shrink-0 w-10 md:w-auto&quot;]/img[@class=&quot;w-6 h-6 cursor-pointer&quot;]</value>
+      <webElementGuid>e05e583a-8235-47cf-ad27-f737d55af845</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Edit']</value>
+      <webElementGuid>d539b54d-8a9b-49eb-8ab6-62781982bc41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>91415fc8-f90a-4d42-a8d2-103700e2673e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://app-sumu.wins.web.id/assets/postingan/img/edit-2.png' and @alt = 'Edit']</value>
+      <webElementGuid>2195fa06-80b6-46e7-b079-82bf5b2d6cff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

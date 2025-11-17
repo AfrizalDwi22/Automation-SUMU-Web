@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Expired_px-4 py-4 text-sm border border-_44dd25</name>
+   <tag></tag>
+   <elementGuidId>8f228f56-5cbb-42d2-b00a-eed5edb4c79e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Expired'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7092badb-063e-4041-8793-ae168457473a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-4 text-sm border border-gray-200</value>
+      <webElementGuid>50916297-e2c5-4f99-8dc8-0c3e46d04cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>member</value>
+      <webElementGuid>3cc893f3-6ef4-46e9-ad40-76b7bf8632c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;w-full pb-4 mt-12 bg-white shadow-lg rounded-3xl&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;min-w-full mt-4 border-collapse&quot;]/tbody[@class=&quot;text-gray-700 bg-white&quot;]/tr[@class=&quot;border border-gray-200&quot;]/td[@class=&quot;px-4 py-4 text-sm border border-gray-200&quot;]</value>
+      <webElementGuid>d9ffe985-47fc-47ac-bd0d-a62c5f59901d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expired'])[1]/following::td[1]</value>
+      <webElementGuid>8af78aea-0dfd-4e73-aa16-d053e1de0e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[18]/following::td[2]</value>
+      <webElementGuid>fb4c0fa1-d533-4983-bb00-233044360875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Block'])[4]/preceding::td[2]</value>
+      <webElementGuid>7ece4026-e83a-403f-81a2-9776d72affc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='member']/parent::*</value>
+      <webElementGuid>dd9e47ca-4206-4897-ac3a-bc0963536641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[9]</value>
+      <webElementGuid>39177825-e7df-4032-8795-f1d2674ee91f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'member' or . = 'member')]</value>
+      <webElementGuid>83850a8f-5aab-49ab-9fbc-eb1d2fb6935e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

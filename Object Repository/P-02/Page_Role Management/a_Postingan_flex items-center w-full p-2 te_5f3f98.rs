@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Postingan_flex items-center w-full p-2 te_5f3f98</name>
+   <tag></tag>
+   <elementGuidId>3f43bec4-c03e-4b6a-beb4-3f64daee870c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-postingan']/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d5d40021-9fcf-4978-9623-15aa5315e38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/postingan/postingan</value>
+      <webElementGuid>7fc285c3-7d9d-4b2a-a5be-6d3e2747781f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11</value>
+      <webElementGuid>4ad7fa39-f2a3-403a-8f15-98a01d61b703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Postingan</value>
+      <webElementGuid>ea48f408-2fa4-4307-88aa-009995911655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-postingan&quot;)/li[1]/a[@class=&quot;flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11&quot;]</value>
+      <webElementGuid>c3492db7-5564-409b-8b45-3eb9a67f13c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-postingan']/li/a</value>
+      <webElementGuid>922c5c90-5992-44cf-a7d5-c8bb5f59a9bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Postingan')]</value>
+      <webElementGuid>cf0403c5-7f6c-4b91-941d-dbc08866af54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postingan'])[1]/following::a[1]</value>
+      <webElementGuid>3b1c4643-db79-48e1-be6d-55096530e7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi Pengguna'])[1]/following::a[1]</value>
+      <webElementGuid>a258b653-30df-4eb9-b790-539fdaaea8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[1]/preceding::a[2]</value>
+      <webElementGuid>503958c1-cafd-4888-ade8-e44359551973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app-sumu.wins.web.id/postingan/postingan')]</value>
+      <webElementGuid>f71ef1af-e3f1-4371-9971-596052ffb5b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a</value>
+      <webElementGuid>08dda248-2215-4b4a-9cd3-0727251cbebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app-sumu.wins.web.id/postingan/postingan' and (text() = 'Postingan' or . = 'Postingan')]</value>
+      <webElementGuid>5d32af9a-a530-4d9d-9f22-2d8b018d406a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

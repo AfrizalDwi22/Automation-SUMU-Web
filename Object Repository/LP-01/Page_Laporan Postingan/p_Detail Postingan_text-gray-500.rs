@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Detail Postingan_text-gray-500</name>
+   <tag></tag>
+   <elementGuidId>b6527f78-6402-4cdc-9815-05f07dd849b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Postingan'])[2]/following::p[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d49b0e54-6746-4698-be3f-c2cc8039f19d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-500</value>
+      <webElementGuid>3bc68a80-4cb7-4048-b8ad-eddb8494635e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>:</value>
+      <webElementGuid>c6cf6ac3-f1fc-4c78-be76-f2e05cd4e54d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;p-6 mb-6 bg-white shadow-lg rounded-xl&quot;]/div[@class=&quot;flex flex-row ml-3&quot;]/div[@class=&quot;px-5 space-y-5 text-left&quot;]/div[@class=&quot;grid grid-cols-[150px_10px_auto] gap-y-3 items-center&quot;]/p[@class=&quot;text-gray-500&quot;]</value>
+      <webElementGuid>7f754a86-8417-4aae-aea6-8759c18737ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Postingan'])[2]/following::p[14]</value>
+      <webElementGuid>784261f5-4fea-45c9-8dd7-907c64efb298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unblock Postingan'])[1]/following::p[14]</value>
+      <webElementGuid>732600b3-f75a-4dbe-b106-c73531ab78b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIB'])[1]/preceding::p[2]</value>
+      <webElementGuid>e57a998c-de06-46c5-9e49-95c5264d45b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postingan Dilaporkan Oleh'])[1]/preceding::p[5]</value>
+      <webElementGuid>0433b7a9-ceb8-4bf1-85bd-217d56386e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[14]</value>
+      <webElementGuid>e37f6d9e-01a9-458b-bc70-c17d7ae0b63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ':' or . = ':')]</value>
+      <webElementGuid>a68d6675-6bb7-4b21-b885-7545026cbdf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

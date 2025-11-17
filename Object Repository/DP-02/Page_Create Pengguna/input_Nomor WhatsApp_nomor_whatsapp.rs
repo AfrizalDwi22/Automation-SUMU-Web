@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nomor WhatsApp_nomor_whatsapp</name>
+   <tag></tag>
+   <elementGuidId>a3d4748e-5781-4e81-bd36-176b8089810c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;nomor_whatsapp&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='nomor_whatsapp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Nomor WhatsApp&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>91dce092-5327-4e0c-827d-e57a9a4ce165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bac70386-1627-4e0b-851f-df900ebb946c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nomor_whatsapp</value>
+      <webElementGuid>13745e79-7154-448a-8e10-596f5e6cbfcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nomor WhatsApp</value>
+      <webElementGuid>ff9a4ce1-c69d-4a84-aae0-5039bd82ee0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full p-3 mt-1 border rounded-lg</value>
+      <webElementGuid>f7dddb20-9bfc-4cd2-91d7-706bcfa7477f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container min-h-screen p-4 mx-auto&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-6 mt-8 lg:grid-cols-3&quot;]/div[@class=&quot;space-y-6 lg:col-span-2&quot;]/div[@class=&quot;p-6 bg-white shadow-lg rounded-3xl&quot;]/div[@class=&quot;space-y-4&quot;]/div[3]/input[@class=&quot;w-full p-3 mt-1 border rounded-lg&quot;]</value>
+      <webElementGuid>a28cfee1-ff9c-4d39-aa2c-40ddfcb37070</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='nomor_whatsapp']</value>
+      <webElementGuid>5dd0ca9f-3bfb-4886-8e84-b30782bcbfe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>acdd9038-d318-4a68-b942-91713921df4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'nomor_whatsapp' and @placeholder = 'Nomor WhatsApp']</value>
+      <webElementGuid>87f888be-c8d1-4d5e-a26e-4017142d7b7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

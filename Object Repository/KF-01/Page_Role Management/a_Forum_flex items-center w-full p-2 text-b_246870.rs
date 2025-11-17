@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forum_flex items-center w-full p-2 text-b_246870</name>
+   <tag></tag>
+   <elementGuidId>82b4a615-6d61-46f5-ad8b-8098c25f204d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-forum']/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a209015-6a5a-422e-8e77-59556479ae07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/forum/kategori-forum</value>
+      <webElementGuid>6d391471-4e8f-4a80-a06a-4c7287b47108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11</value>
+      <webElementGuid>d4e7ee15-de1f-47ea-8f31-f4273501de12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kategori
+                                Forum</value>
+      <webElementGuid>3baca670-6615-4618-9a04-48d489209e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-forum&quot;)/li[2]/a[@class=&quot;flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11&quot;]</value>
+      <webElementGuid>ffb97036-385b-4070-814a-4b0bbf2d860b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-forum']/li[2]/a</value>
+      <webElementGuid>0a206d89-2904-407c-bd2e-2e0641840b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kategori
+                                Forum')]</value>
+      <webElementGuid>48c5c716-0944-448b-a486-349fb28c0fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[2]/following::a[1]</value>
+      <webElementGuid>46b2484d-2103-4fbf-bbf6-52a0c120bbc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[1]/following::a[2]</value>
+      <webElementGuid>cc9d9b6f-b554-4d00-997c-f6b0e201e4b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Course'])[1]/preceding::a[1]</value>
+      <webElementGuid>594e7c7b-2706-4604-b38d-3f51879d2c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Course'])[2]/preceding::a[1]</value>
+      <webElementGuid>6f585a9c-76ea-4270-98a1-61e5d2d47f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app-sumu.wins.web.id/forum/kategori-forum')]</value>
+      <webElementGuid>80937ba9-8597-4f39-aff2-53aefd770cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[2]/a</value>
+      <webElementGuid>0cfbb4e6-6440-4565-80b2-6fc7d33f910c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app-sumu.wins.web.id/forum/kategori-forum' and (text() = 'Kategori
+                                Forum' or . = 'Kategori
+                                Forum')]</value>
+      <webElementGuid>9fe04f93-6133-4992-87ec-32b244b997c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

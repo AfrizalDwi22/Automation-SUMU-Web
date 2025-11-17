@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forum_font-lato px-8 py-2 text-sm text-ce_bb9063</name>
+   <tag></tag>
+   <elementGuidId>d4433d71-fdfe-479b-a25a-e79bd818617d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Create')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d9520bdf-a181-4373-8f14-f7aa486b8019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/forum/create</value>
+      <webElementGuid>26c669f3-dfbd-4233-9c1d-20d8de64f26d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-lato px-8 py-2 text-sm text-center text-white bg-[#54A444] rounded-xl hover:bg-[#3B7330] active:bg-[#182B23]</value>
+      <webElementGuid>1f46b04a-0a79-42df-b69d-49bfa3f276fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Create
+        </value>
+      <webElementGuid>a2b3af35-b2f4-486f-a3a7-8c4979ba1617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;flex items-center justify-between mb-4&quot;]/a[@class=&quot;font-lato px-8 py-2 text-sm text-center text-white bg-[#54A444] rounded-xl hover:bg-[#3B7330] active:bg-[#182B23]&quot;]</value>
+      <webElementGuid>50b09d8d-622e-4bd3-8eff-6395308f688e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create')]</value>
+      <webElementGuid>1849c385-dc8d-479f-ba42-aa7bd131aa2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[5]/following::a[1]</value>
+      <webElementGuid>97448824-b690-4844-8688-3e8ae309308e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[2]/following::a[1]</value>
+      <webElementGuid>ff265ee2-7a49-4705-b5b9-4ad16b6f2184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::a[1]</value>
+      <webElementGuid>312b2b0d-e750-4f01-9041-205dc95b78bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>504ff143-a44a-4832-9a6a-9406e52d0000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app-sumu.wins.web.id/forum/create')]</value>
+      <webElementGuid>e22d18cc-0d54-401f-b0ee-717302697634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/a</value>
+      <webElementGuid>283acc49-a16d-4cfb-8ca2-b6541247fd49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app-sumu.wins.web.id/forum/create' and (text() = '
+            Create
+        ' or . = '
+            Create
+        ')]</value>
+      <webElementGuid>1ed2cad1-0e15-461d-80c8-ef3be49b9c8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

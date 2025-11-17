@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Postingan_flex items-center w-full p-2 te_5f3f98</name>
+   <tag></tag>
+   <elementGuidId>642d246b-4fb2-4529-a7fd-3d80599c4636</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-postingan']/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b7795df9-bd80-4a82-a8d7-c99b7bd6bcdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/postingan/laporan_postingan</value>
+      <webElementGuid>7ccca438-d592-4fe0-b702-201c06a751f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11</value>
+      <webElementGuid>702c8319-7e47-4c73-954a-316d9443a89d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporan
+                                Postingan</value>
+      <webElementGuid>21e2fca4-baed-423b-8da8-415e43ca58fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-postingan&quot;)/li[2]/a[@class=&quot;flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11&quot;]</value>
+      <webElementGuid>7dee0fb6-e867-4462-ba21-4a87bb5c1f44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-postingan']/li[2]/a</value>
+      <webElementGuid>111246d9-b9e6-456f-a019-fe4391b15425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Laporan
+                                Postingan')]</value>
+      <webElementGuid>9260ff79-3e9d-4d10-a0ae-a93d85b09ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postingan'])[2]/following::a[1]</value>
+      <webElementGuid>99b2b5ad-170d-4dab-bd54-e17d19b17f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postingan'])[1]/following::a[2]</value>
+      <webElementGuid>e9b947ff-31c8-4725-8e4d-fe0b8015f1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[1]/preceding::a[1]</value>
+      <webElementGuid>8db48367-0df5-4591-bbcc-da8f6d420cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[2]/preceding::a[1]</value>
+      <webElementGuid>fa2aa861-59c5-4db2-b5f1-c7f557a7f386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app-sumu.wins.web.id/postingan/laporan_postingan')]</value>
+      <webElementGuid>631f70e5-42ef-4d42-aa1a-84c69824a357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/a</value>
+      <webElementGuid>ed77bdcc-84b0-4629-9699-ef24520fbfd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app-sumu.wins.web.id/postingan/laporan_postingan' and (text() = 'Laporan
+                                Postingan' or . = 'Laporan
+                                Postingan')]</value>
+      <webElementGuid>3864d61a-4fb3-4754-9d91-684966105f35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

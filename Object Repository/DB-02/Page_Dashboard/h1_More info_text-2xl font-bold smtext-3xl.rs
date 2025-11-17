@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_More info_text-2xl font-bold smtext-3xl</name>
+   <tag></tag>
+   <elementGuidId>a405bb4b-2ca4-4556-91ce-0cdbfb166f42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='More info'])[1]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;2330&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>c143e016-655d-4a89-81de-99c7cf728d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl font-bold sm:text-3xl</value>
+      <webElementGuid>346c1ebe-f712-4ad1-af05-51cc341b9a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2330</value>
+      <webElementGuid>a80b680e-bd9b-415d-93a6-25d76ea5bcd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;mx-4 lg:mx-6&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4 mb-6&quot;]/div[@class=&quot;flex items-center p-4 bg-white rounded-lg shadow-md sm:p-6&quot;]/div[@class=&quot;flex items-center w-full&quot;]/div[@class=&quot;ml-4 overflow-hidden&quot;]/h1[@class=&quot;text-2xl font-bold sm:text-3xl&quot;]</value>
+      <webElementGuid>841ad4c5-514f-46f3-86e4-56ce5866f382</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More info'])[1]/following::h1[1]</value>
+      <webElementGuid>6bf13219-b138-4377-94e0-6d4030995901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[4]/following::h1[2]</value>
+      <webElementGuid>74fdfda8-a019-4182-ba39-9bd6aa603251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More info'])[2]/preceding::h1[1]</value>
+      <webElementGuid>83fac307-12c9-4ac2-9360-0b92ef2f6d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d12c3a2f-7a41-41f7-8364-0e5c84e95337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2330']/parent::*</value>
+      <webElementGuid>c247f3c7-1885-4842-adc8-a97d324ee8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/h1</value>
+      <webElementGuid>1412b9cb-83af-4dc5-8ef7-38484152f461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '2330' or . = '2330')]</value>
+      <webElementGuid>4753c806-43e7-4cab-93ee-cfbe20feba4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

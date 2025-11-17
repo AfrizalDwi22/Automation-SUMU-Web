@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reject Reported Request_block-button</name>
+   <tag></tag>
+   <elementGuidId>752f3b93-5743-4c39-97f3-e5bf25e2292f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='block-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#block-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>203f70a8-537a-4b07-8e44-85ef77102f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>block-button</value>
+      <webElementGuid>053d9d66-f514-4f78-8f3e-1e559304fbfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd2b1d6f-4f9f-4e51-a880-a39bedfdfc17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button font-lato bg-[#CB3A31] text-white px-4 py-2 p-4 rounded-lg hover:bg-[#BD251C] active:bg-[#731912] flex-grow md:flex-grow-0</value>
+      <webElementGuid>87dfcd56-7da6-4c7d-8f44-9590dd6003f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>388</value>
+      <webElementGuid>b537d19a-2da3-4f6e-82e0-a2e720a495bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Block Postingan
+                        </value>
+      <webElementGuid>1e974bda-ed5b-4ba8-9bdf-49ea367bc242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-button&quot;)</value>
+      <webElementGuid>6250950f-7dbf-4de1-a6dd-bab473e00bad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='block-button']</value>
+      <webElementGuid>8d86f86a-ca0e-4534-a815-6e96308ce166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='block-form']/button</value>
+      <webElementGuid>9b47cd66-5e18-4d2a-9f91-6a99f21fc9e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject Reported Request'])[1]/following::button[1]</value>
+      <webElementGuid>55095f80-7f89-4c05-92b3-6066f965ce76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Postingan'])[1]/following::button[2]</value>
+      <webElementGuid>8ddf8fc8-7efb-413a-9d2f-e2c9506f88e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Postingan'])[2]/preceding::button[1]</value>
+      <webElementGuid>65dc5dcc-d50a-4239-a405-b22183d91d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIB'])[1]/preceding::button[1]</value>
+      <webElementGuid>1b8d895d-db2f-4e60-89c1-8e3f4ecb9606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Block Postingan']/parent::*</value>
+      <webElementGuid>da0f165e-ff1f-466e-9c75-d68eccf7b159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/button</value>
+      <webElementGuid>c4db939b-967b-427a-abc0-ee65ac741989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'block-button' and @type = 'button' and (text() = '
+                            Block Postingan
+                        ' or . = '
+                            Block Postingan
+                        ')]</value>
+      <webElementGuid>16858f23-fea6-43df-b4d5-4db43c60aa38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

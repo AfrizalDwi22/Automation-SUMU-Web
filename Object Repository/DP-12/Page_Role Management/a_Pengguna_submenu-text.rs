@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pengguna_submenu-text</name>
+   <tag></tag>
+   <elementGuidId>7621c607-e893-481c-8da4-7a7401501e87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='submenu-text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdown-pengguna > li > #submenu-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0bb9412d-52cf-4cce-92b8-73509eacadf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submenu-text</value>
+      <webElementGuid>c4864e0e-cf88-4552-9987-33c7e5aa6df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/pengguna/daftar-pengguna</value>
+      <webElementGuid>849142c5-96b4-43f9-8a0b-f227d52f0ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11</value>
+      <webElementGuid>ebc92052-7810-42a3-9042-7377642549c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Daftar Pengguna
+                            </value>
+      <webElementGuid>36ec0c93-def4-4ef9-8230-34143be80aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-pengguna&quot;)/li[1]/a[@id=&quot;submenu-text&quot;]</value>
+      <webElementGuid>d2adbe7d-cb27-43eb-8f20-33cde678bcee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='submenu-text'])[2]</value>
+      <webElementGuid>34aee983-ed28-4283-be25-8eda8e565c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-pengguna']/li/a</value>
+      <webElementGuid>1a18c64e-5909-4016-839b-20c424ae0786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Pengguna')]</value>
+      <webElementGuid>672f1f07-93f0-41dd-b6d9-72dc704ccff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengguna'])[1]/following::a[1]</value>
+      <webElementGuid>8bcb7382-f7b2-4618-a1ee-4ee8de0a7e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permission'])[1]/following::a[1]</value>
+      <webElementGuid>88f22f07-6d4d-42da-9e84-f92572ba8d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi Pengguna'])[1]/preceding::a[1]</value>
+      <webElementGuid>42dfdca8-547d-4c84-8f4b-dc65f2a047d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postingan'])[1]/preceding::a[2]</value>
+      <webElementGuid>a877d0dd-6691-409b-9aa9-025cf15a5f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Pengguna']/parent::*</value>
+      <webElementGuid>1aea693f-8ba8-489a-a26a-b77a5bfdd5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app-sumu.wins.web.id/pengguna/daftar-pengguna')]</value>
+      <webElementGuid>d4b27f7e-4192-458c-8e67-5e958bcc3ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a</value>
+      <webElementGuid>a4834ad0-a49e-4030-ad6e-c70cf3aa10b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'submenu-text' and @href = 'https://app-sumu.wins.web.id/pengguna/daftar-pengguna' and (text() = '
+                                Daftar Pengguna
+                            ' or . = '
+                                Daftar Pengguna
+                            ')]</value>
+      <webElementGuid>4e60ba49-2051-4b44-a826-0bb0f4abd7f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

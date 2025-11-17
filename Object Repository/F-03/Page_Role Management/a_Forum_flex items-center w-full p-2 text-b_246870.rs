@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forum_flex items-center w-full p-2 text-b_246870</name>
+   <tag></tag>
+   <elementGuidId>986fd4da-4fff-4f62-8c6a-c42c82e18d21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-forum']/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3254d2f5-93ee-4d9a-9676-470c903c926d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/forum</value>
+      <webElementGuid>b7081bf3-e9cb-470c-9da0-8f5f11f94bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11</value>
+      <webElementGuid>02452bd0-8eaf-46b2-bb26-e88bcffd41b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forum</value>
+      <webElementGuid>97de2f9c-7da1-4960-ab53-1b39fc438973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-forum&quot;)/li[1]/a[@class=&quot;flex items-center w-full p-2 text-base font-medium  text-gray-500 hover:bg-[#EEF6EC] hover:text-[#54A444]  transition duration-75 rounded-lg pl-11&quot;]</value>
+      <webElementGuid>a2cba470-d269-4cc0-a5e2-866c7ef9569c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-forum']/li/a</value>
+      <webElementGuid>adf328b1-0cbe-45e4-9060-9b484e17cc85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forum')]</value>
+      <webElementGuid>1d598a81-73db-43b8-bcf1-40f0dff4ac11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[1]/following::a[1]</value>
+      <webElementGuid>5ae2a1a7-cdd7-48ca-8230-b77456031ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Course'])[1]/preceding::a[2]</value>
+      <webElementGuid>d57c6ad9-feff-4c89-a490-6bc958223ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app-sumu.wins.web.id/forum')]</value>
+      <webElementGuid>5fd173f1-1a51-4deb-8be6-ab91e36793d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li/a</value>
+      <webElementGuid>9f8d3b62-dbcc-4756-9c8a-d23afa89d9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app-sumu.wins.web.id/forum' and (text() = 'Forum' or . = 'Forum')]</value>
+      <webElementGuid>9e2b8fd4-1ca1-4639-9798-1ce82f4b3dfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

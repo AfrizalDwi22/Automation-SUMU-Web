@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next_relative inline-flex items-center px_0ccd88</name>
+   <tag></tag>
+   <elementGuidId>faa650d7-4297-41e2-8f91-eaa7ed71b33e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'3')])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0ff73643-0265-4823-9ccf-c09606a203f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/pengguna/daftar-pengguna?page=3</value>
+      <webElementGuid>d06887ac-f985-424b-a6ee-5001637025b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-flex items-center px-4 py-2 ml-1 text-sm font-medium text-green-500 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 rounded-lg</value>
+      <webElementGuid>70edcadf-68c3-40e1-8f50-6144a0c1a034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Go to page 3</value>
+      <webElementGuid>675c7cc7-daeb-4dd7-8e3c-af9c449189b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        3
+                                    </value>
+      <webElementGuid>6227e696-9f27-47b0-b347-b19063f0522d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;w-full pb-4 mt-12 bg-white shadow-lg rounded-3xl&quot;]/div[@class=&quot;flex items-center justify-between mt-8 ml-6&quot;]/div[@class=&quot;flex items-center mr-8 space-x-2&quot;]/nav[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;hidden sm:flex-1 sm:flex sm:items-center sm:justify-between&quot;]/div[1]/span[@class=&quot;relative z-0 inline-flex shadow-sm rounded-md&quot;]/a[@class=&quot;relative inline-flex items-center px-4 py-2 ml-1 text-sm font-medium text-green-500 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 rounded-lg&quot;]</value>
+      <webElementGuid>a58f722f-4371-4b42-ac23-bc1935d0fb42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'3')])[7]</value>
+      <webElementGuid>94636f8b-4243-4388-b809-f7ab7744ec08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::a[2]</value>
+      <webElementGuid>baf0e08e-984f-4279-ba8a-adcd161fc426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::a[3]</value>
+      <webElementGuid>1ef544a6-7f91-4f12-8359-470e8ecddf6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::a[8]</value>
+      <webElementGuid>cd6ae20b-e7b3-46ee-8c8f-c355c3ed1d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='→'])[1]/preceding::a[10]</value>
+      <webElementGuid>5361d5e7-e386-4232-9ab6-2bf74ab64a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app-sumu.wins.web.id/pengguna/daftar-pengguna?page=3')]</value>
+      <webElementGuid>ffcfe11b-3166-4346-9a51-09a378e1e160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a[2]</value>
+      <webElementGuid>36376c66-af1a-452a-821c-ea64876902b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app-sumu.wins.web.id/pengguna/daftar-pengguna?page=3' and (text() = '
+                                        3
+                                    ' or . = '
+                                        3
+                                    ')]</value>
+      <webElementGuid>799ecd1b-16d1-4e69-a2c0-a27e8b671163</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

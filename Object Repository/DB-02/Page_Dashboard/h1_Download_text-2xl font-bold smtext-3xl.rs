@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Download_text-2xl font-bold smtext-3xl</name>
+   <tag></tag>
+   <elementGuidId>6b9ad731-ff9a-416f-9065-9f25a9476555</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;238&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>b4ed6f20-1fdc-4cbd-9724-9711660ad543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl font-bold sm:text-3xl</value>
+      <webElementGuid>72fabce4-13cc-4e79-900f-76866c7649a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>238</value>
+      <webElementGuid>b6adbcca-f0ad-4c20-821c-19893c796573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;mx-4 lg:mx-6&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4 mb-6&quot;]/div[@class=&quot;flex items-center p-4 bg-white rounded-lg shadow-md sm:p-6&quot;]/div[@class=&quot;flex items-center w-full&quot;]/div[@class=&quot;ml-4 overflow-hidden&quot;]/h1[@class=&quot;text-2xl font-bold sm:text-3xl&quot;]</value>
+      <webElementGuid>2523a085-2368-439a-a9d8-bfd208831054</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::h1[1]</value>
+      <webElementGuid>ed7b6699-4afd-4e13-ba65-d631a11d67c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More info'])[2]/following::h1[1]</value>
+      <webElementGuid>3a29f983-ba55-4458-a323-f3cb6eb6531d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More info'])[3]/preceding::h1[1]</value>
+      <webElementGuid>6e65c26d-71d9-4832-a25c-6a49b0293721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[2]/preceding::h1[1]</value>
+      <webElementGuid>7b73df7d-d9f9-463b-b153-a8d1d45d9630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='238']/parent::*</value>
+      <webElementGuid>564ceb3d-315d-45d6-973b-f898de459d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/h1</value>
+      <webElementGuid>397bc1dc-b4fa-4d0e-8c0b-652e9ec228de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '238' or . = '238')]</value>
+      <webElementGuid>f912bac0-b3fa-42cf-96a9-45864abd5d39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Aktif_w-6 h-6 cursor-pointer</name>
+   <tag></tag>
+   <elementGuidId>a5bceb5c-562d-4c1d-9a4e-d880b6ad3abe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='View']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.w-6.h-6.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>96cc7faa-a633-4777-9f43-51aa9bb037e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/assets/postingan/img/eye.png</value>
+      <webElementGuid>8e9a4be5-1e54-4f1d-944d-03a878c85b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>8ff04d45-9557-4163-90d9-131d377ec58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-6 h-6 cursor-pointer</value>
+      <webElementGuid>cb38f3d6-af5a-4bc6-9b0e-33203ba563fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;w-full pb-4 mt-12 bg-white shadow-lg rounded-3xl&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;min-w-full mt-4 border-collapse&quot;]/tbody[@class=&quot;text-gray-700 bg-white&quot;]/tr[@class=&quot;border border-gray-200&quot;]/td[@class=&quot;flex items-center justify-between px-6 py-4 pr-12 space-x-1 text-sm border border-gray-200&quot;]/a[@class=&quot;flex-shrink-0 w-10 md:w-auto&quot;]/img[@class=&quot;w-6 h-6 cursor-pointer&quot;]</value>
+      <webElementGuid>19ea298e-f845-43f5-a425-fa8a1e59055e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='View']</value>
+      <webElementGuid>5f141fdc-df33-40a2-a5ea-7334a3fdd686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a/img</value>
+      <webElementGuid>becaeddb-f373-490b-b317-3ffb468006ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://app-sumu.wins.web.id/assets/postingan/img/eye.png' and @alt = 'View']</value>
+      <webElementGuid>627dfe3e-d7d2-4759-bd03-7cf27c2b246f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next_relative inline-flex items-center px_0ccd88</name>
+   <tag></tag>
+   <elementGuidId>e5b7e153-0be8-4eca-8456-437564aed050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'2')])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Go to page 2&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a44753e9-f79b-4acf-90ca-92026a7daebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app-sumu.wins.web.id/pengguna/daftar-pengguna?kabupaten_kota=SURABAYA&amp;page=2</value>
+      <webElementGuid>6aa5b96b-18ce-4fe3-a660-fad8dcd95397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-flex items-center px-4 py-2 ml-1 text-sm font-medium text-green-500 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 rounded-lg</value>
+      <webElementGuid>c1919421-340b-4a41-84af-5208d0c1cf25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Go to page 2</value>
+      <webElementGuid>d3c17454-2f27-4713-a31d-203ddb410f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        2
+                                    </value>
+      <webElementGuid>31a2dc6d-aafb-47dd-b482-96cad12c56cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container p-4 mx-auto&quot;]/div[@class=&quot;w-full pb-4 mt-12 bg-white shadow-lg rounded-3xl&quot;]/div[@class=&quot;flex items-center justify-between mt-8 ml-6&quot;]/div[@class=&quot;flex items-center mr-8 space-x-2&quot;]/nav[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;hidden sm:flex-1 sm:flex sm:items-center sm:justify-between&quot;]/div[1]/span[@class=&quot;relative z-0 inline-flex shadow-sm rounded-md&quot;]/a[@class=&quot;relative inline-flex items-center px-4 py-2 ml-1 text-sm font-medium text-green-500 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 rounded-lg&quot;]</value>
+      <webElementGuid>b240d20d-afbf-4d9e-879b-3e2ac01a574c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'2')])[11]</value>
+      <webElementGuid>df98849d-f810-45ca-8140-dd7e63dc45ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::a[1]</value>
+      <webElementGuid>fd91e9ec-90e4-448e-b31a-9f5a3e1f3720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::a[2]</value>
+      <webElementGuid>eb76b9fe-390c-4c5f-846a-cde6535a8f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='→'])[1]/preceding::a[6]</value>
+      <webElementGuid>101a09a1-bb83-47a3-8dc8-764d5f9cee50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Daftar Pengguna?'])[1]/preceding::a[7]</value>
+      <webElementGuid>7f5b5458-3d97-41b0-965b-3e6878868e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://app-sumu.wins.web.id/pengguna/daftar-pengguna?kabupaten_kota=SURABAYA&amp;page=2')])[2]</value>
+      <webElementGuid>81aacb9f-3d08-43c3-bdbc-b48af5166545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>c542259a-f702-4985-826e-e471ef634448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app-sumu.wins.web.id/pengguna/daftar-pengguna?kabupaten_kota=SURABAYA&amp;page=2' and (text() = '
+                                        2
+                                    ' or . = '
+                                        2
+                                    ')]</value>
+      <webElementGuid>e3868f7b-9322-47c4-a4fa-fae5c05eb118</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

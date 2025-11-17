@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p</name>
+   <tag></tag>
+   <elementGuidId>032e9a33-3fa9-4630-926d-7c0991513935</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='editor']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ql-editor > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0958aade-a016-45cd-beb9-6c09a84c1279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>🌟 H-1 MENUJU WEBINAR SUMU CATALYST Dari Sandblasting, Epoxy Flooring hingga Finishing: Pelajari Teknologi Coating Lengkap &amp; Peluang Bisnisnya🌟 🔍 Ingin tahu bagaimana teknologi coating bisa jadi peluang bisnis baru di bidang konstruksi? 💡 Webinar ini akan membahas secara lengkap mulai dari: Sandblasting, Epoxy Flooring hingga tahap Finishing bersama praktisi industri berpengalaman yang akan mengupas tuntas teknologi coating dan peluang kerjasamanya di lapangan. 🎙️ Narasumber: Elvian Helmi – Direktur PT. Eltama Prima Indo 📅 Jum’at, 31 Oktober 2025 🕖 19.45 – 21.30 WIB (via Zoom) 🎯 Mengapa Harus Ikut? 1️⃣ Kenali tren terbaru teknologi cat &amp; coating 2️⃣ Belajar langsung dari praktisi industri berpengalaman 3️⃣ Cocok untuk kontraktor, developer, pemilik usaha, &amp; profesional teknik 4️⃣ Dapat insight langsung tentang peluang kerja sama dengan FOXAPAINT 💬 Segera bergabung ke grup untuk info lengkap https://chat.whatsapp.com/LEFnEfSWDTTCl6rWpnuKl6?mode=ems_copy_t CP: wa.me/6281223595536 (Admin SUMU)</value>
+      <webElementGuid>6c9fba1d-fd88-49bc-9bdd-f1d20aa794a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editor&quot;)/div[@class=&quot;ql-editor&quot;]/p[1]</value>
+      <webElementGuid>128dd8cc-7851-4ccc-8d8b-f78f3de1585f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='editor']/div/p</value>
+      <webElementGuid>18d494d0-998f-42d8-8e51-1d1eb74c0ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/following::p[1]</value>
+      <webElementGuid>3ee2049a-80f7-4490-a900-cee964d541ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Umum'])[1]/following::p[1]</value>
+      <webElementGuid>a18271ef-5af0-41e1-974e-9d54cee65dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Postingan'])[1]/preceding::p[1]</value>
+      <webElementGuid>c3c1fc08-eb3b-4b0b-80d1-27af38f45bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Izinkan Komentar'])[1]/preceding::p[1]</value>
+      <webElementGuid>5920f830-ef35-4c72-a6af-499db0cbff46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>88e29098-d9bb-4b89-bde9-6d0997e65d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '🌟 H-1 MENUJU WEBINAR SUMU CATALYST Dari Sandblasting, Epoxy Flooring hingga Finishing: Pelajari Teknologi Coating Lengkap &amp; Peluang Bisnisnya🌟 🔍 Ingin tahu bagaimana teknologi coating bisa jadi peluang bisnis baru di bidang konstruksi? 💡 Webinar ini akan membahas secara lengkap mulai dari: Sandblasting, Epoxy Flooring hingga tahap Finishing bersama praktisi industri berpengalaman yang akan mengupas tuntas teknologi coating dan peluang kerjasamanya di lapangan. 🎙️ Narasumber: Elvian Helmi – Direktur PT. Eltama Prima Indo 📅 Jum’at, 31 Oktober 2025 🕖 19.45 – 21.30 WIB (via Zoom) 🎯 Mengapa Harus Ikut? 1️⃣ Kenali tren terbaru teknologi cat &amp; coating 2️⃣ Belajar langsung dari praktisi industri berpengalaman 3️⃣ Cocok untuk kontraktor, developer, pemilik usaha, &amp; profesional teknik 4️⃣ Dapat insight langsung tentang peluang kerja sama dengan FOXAPAINT 💬 Segera bergabung ke grup untuk info lengkap https://chat.whatsapp.com/LEFnEfSWDTTCl6rWpnuKl6?mode=ems_copy_t CP: wa.me/6281223595536 (Admin SUMU)' or . = '🌟 H-1 MENUJU WEBINAR SUMU CATALYST Dari Sandblasting, Epoxy Flooring hingga Finishing: Pelajari Teknologi Coating Lengkap &amp; Peluang Bisnisnya🌟 🔍 Ingin tahu bagaimana teknologi coating bisa jadi peluang bisnis baru di bidang konstruksi? 💡 Webinar ini akan membahas secara lengkap mulai dari: Sandblasting, Epoxy Flooring hingga tahap Finishing bersama praktisi industri berpengalaman yang akan mengupas tuntas teknologi coating dan peluang kerjasamanya di lapangan. 🎙️ Narasumber: Elvian Helmi – Direktur PT. Eltama Prima Indo 📅 Jum’at, 31 Oktober 2025 🕖 19.45 – 21.30 WIB (via Zoom) 🎯 Mengapa Harus Ikut? 1️⃣ Kenali tren terbaru teknologi cat &amp; coating 2️⃣ Belajar langsung dari praktisi industri berpengalaman 3️⃣ Cocok untuk kontraktor, developer, pemilik usaha, &amp; profesional teknik 4️⃣ Dapat insight langsung tentang peluang kerja sama dengan FOXAPAINT 💬 Segera bergabung ke grup untuk info lengkap https://chat.whatsapp.com/LEFnEfSWDTTCl6rWpnuKl6?mode=ems_copy_t CP: wa.me/6281223595536 (Admin SUMU)')]</value>
+      <webElementGuid>75235496-77be-4e8b-a5d5-a68fdfe643ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

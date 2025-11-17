@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Konfirmasi Password_password_confirmation</name>
+   <tag></tag>
+   <elementGuidId>bce72312-6ff7-4ec7-b86d-4d386111a08a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;password_confirmation&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='password_confirmation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Konfirmasi Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ccf91f8e-d243-4bba-add6-24b01eb8bb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>58cbaa27-e7b8-4113-b2f1-c810e36432c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password_confirmation</value>
+      <webElementGuid>ca8b1b1c-d5a4-418f-9c8a-21b7f02bddd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Konfirmasi Password</value>
+      <webElementGuid>b645d5ef-74a9-4642-a03a-6671aa4434d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full p-3 mt-1 border rounded-lg</value>
+      <webElementGuid>82c47b38-37a2-4ddb-99a0-ef820b8fa327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;flex flex-col min-h-screen bg-gray-100&quot;]/main[@class=&quot;flex-grow p-4 sm:ml-80&quot;]/div[@class=&quot;container min-h-screen p-4 mx-auto&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-6 mt-8 lg:grid-cols-3&quot;]/div[@class=&quot;space-y-6 lg:col-span-2&quot;]/div[@class=&quot;p-6 bg-white shadow-lg rounded-3xl&quot;]/div[@class=&quot;space-y-4&quot;]/div[2]/input[@class=&quot;w-full p-3 mt-1 border rounded-lg&quot;]</value>
+      <webElementGuid>b314ce8a-e1db-49e7-87e9-0f8da59df268</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='password_confirmation']</value>
+      <webElementGuid>059870db-408f-453c-a5cd-fa50964ad731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/input</value>
+      <webElementGuid>9c022944-ee31-4f9b-b04d-07042ffee7f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @name = 'password_confirmation' and @placeholder = 'Konfirmasi Password']</value>
+      <webElementGuid>673a6ab9-81a3-4d12-82bc-79890c12f6cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

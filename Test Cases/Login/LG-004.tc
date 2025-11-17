@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tampilan awal saat login</description>
+   <name>LG-004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea22f61c-ae12-4985-8f31-ba8eae44df9e</testCaseGuid>
+</TestCaseEntity>
